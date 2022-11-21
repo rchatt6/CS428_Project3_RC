@@ -30,7 +30,10 @@ public class ButtonCollumnPressed : MonoBehaviour
     public AudioClip audioClipBad;
     bool isOn = true;
 
-
+    public void Start()
+    {
+        audioSource.PlayOneShot(audioClipGood);
+    }
 
     private void OnTriggerEnter(Collider collider)
     {
