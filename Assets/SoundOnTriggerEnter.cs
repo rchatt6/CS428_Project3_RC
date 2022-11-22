@@ -21,6 +21,10 @@ public class SoundOnTriggerEnter : MonoBehaviour
     {
         int sound = Random.Range(0, audio.Length);
         //AudioSource.PlayClipAtPoint(audio[sound], transform.position);
-        GetComponent<AudioSource>().PlayOneShot(audio[sound]);
+        if(!GetComponent<AudioSource>().isPlaying)
+        {
+            GetComponent<AudioSource>().PlayOneShot(audio[sound]);
+        }
+        
     }
 }
