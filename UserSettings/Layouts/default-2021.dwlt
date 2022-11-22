@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1904
     height: 1318
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 75
+  controlID: 19
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 76
+  controlID: 66
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -272,8 +272,8 @@ MonoBehaviour:
     y: 0
     width: 382
     height: 1268
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -643,9 +643,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 42043300
-      m_LastClickedID: 3343426
-      m_ExpandedIDs: b80ff6ff1610f6ffee82f7ffc6bef7ff14bff7ffd431f9ffec57f9ff3a58f9ffc0c7faffe2affbff30b0fbff9819fdffca1cfdff181dfdffbc89feff5ab7feff00fbffff6875000052870000908c0000b4910000022401000cda08007625090066a0090096d60900a2f00900a2170a00e41e0a001eae0a008ac50a00a452100028b01000900511007a0a1100082d1100ec61110004641100fca511001ed111004454120010542200c6bc2200d41b2300b239230008a42300a6b22300aac32300c8dd2300ee602400de95320042043300d6123300d28b3300263a3400
+      m_SelectedIDs: 7efe1a00
+      m_LastClickedID: 1769086
+      m_ExpandedIDs: 6479f8ffb279f8ff4ee9f9ff2817faff7a17faff1687fbff5c8ffbffaa8ffbff8202fdfffa0bfdff480cfdff207ffeff2cb1feff38b1feff52e1feff5ee1feff6e0fffff00fbffff8e750000de86000094870000de8c0000e68d00000e9200006424010030fd0300401a0400d26b04005c7a040058bc040096df04000ef3040034a10500b0750d008cb40d0020cf0d00b8240e00ac290e00d6400e004c4c0e00c0750e0048810e00488e0e00fec40e0024730f00ae7913008cb8130020d31300b8281400ac2d1400d64414004c501400c0791400488514004892140000c9140026771500
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -894,9 +894,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -15.391961, y: 0.43619323, z: 7.4248824}
+    m_Target: {x: -13.72139, y: 0.960539, z: 6.020105}
     speed: 2
-    m_Value: {x: -15.391961, y: 0.43619323, z: 7.4248824}
+    m_Value: {x: -13.72139, y: 0.960539, z: 6.020105}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -943,13 +943,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.29548186, y: -0.048405103, z: 0.016188368, w: -0.9543814}
+    m_Target: {x: -0.08859378, y: -0.041767735, z: 0.004930225, w: -0.99557114}
     speed: 2
-    m_Value: {x: -0.29677585, y: -0.0497927, z: 0.016700089, w: -0.95350194}
+    m_Value: {x: -0.08855927, y: -0.041751463, z: 0.004928305, w: -0.9951833}
   m_Size:
-    m_Target: 3.318615
+    m_Target: 2.7692213
     speed: 2
-    m_Value: 3.318615
+    m_Value: 2.7692213
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1056,9 +1056,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ecdc0100
-    m_LastClickedID: 122092
-    m_ExpandedIDs: 00000000ecdc0100eedc0100f0dc010000ca9a3bffffff7f
+    m_SelectedIDs: 64dd0100
+    m_LastClickedID: 122212
+    m_ExpandedIDs: 0000000064dd010066dd010068dd010000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1086,7 +1086,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ecdc0100eedc0100f0dc0100
+    m_ExpandedIDs: 0000000064dd010066dd010068dd0100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1138,7 +1138,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 1711}
+    m_ScrollPosition: {x: 0, y: 859}
     m_GridSize: 16
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 557
