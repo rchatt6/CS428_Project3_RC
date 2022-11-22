@@ -1,0 +1,15 @@
+newmtl BirdRoof
+map_Kd -o -0.17 0 -s -0.84 2.8 BirdRoof.jpeg
+Kd 1 1 1
+d 1
+
+newmtl BirdhouseWood
+map_Kd -o -0.45 -0.72 -s 1.17 3.44 BirdhouseWood.jpg
+Kd 1 1 1
+d 1
+
+newmtl Bark
+map_Kd -o -0.21 0 -s 3.36 4.29 Bark.jpg
+Kd 1 1 1
+d 1
+
