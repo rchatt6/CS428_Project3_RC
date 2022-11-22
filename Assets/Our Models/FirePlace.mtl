@@ -1,0 +1,5 @@
+newmtl FireWood
+map_Kd -o -0.28 0.33 -s 2.69 2.02 FireWood.jpeg
+Kd 1.0 1.0 1.0
+d 1.0
+

@@ -1,0 +1,5 @@
+newmtl Rails
+map_Kd -o -2.67 -0.43 -s 4.78 4.98 railsTexture.jpg
+Kd 1 1 1
+d 1
+

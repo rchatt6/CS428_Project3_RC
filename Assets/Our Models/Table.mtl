@@ -1,0 +1,9 @@
+newmtl __Redwood_
+Kd 0.8294213 0.6622347 0.6025818
+d 1
+
+newmtl __Wood_Veneer_02_1
+map_Kd -o 0 0 -s 1 1 __Wood_Veneer_02_1.jpg
+Kd 1 1 1
+d 1
+

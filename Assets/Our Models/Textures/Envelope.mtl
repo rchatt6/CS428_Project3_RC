@@ -1,0 +1,12 @@
+newmtl RedWax
+Kd 0.8018868 0.2685564 0.3611231
+d 1
+
+newmtl EnvelopeMat
+Kd 0.9245283 0.8363494 0.5364009
+d 1
+
+newmtl FlapColor
+Kd 0.3018868 0.2533709 0.2207191
+d 1
+
