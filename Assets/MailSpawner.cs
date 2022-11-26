@@ -26,7 +26,9 @@ public class MailSpawner : MonoBehaviour
         //AudioSource.PlayClipAtPoint(audio, transform.position);
         //Instantiate(item, spawnlocation.GetComponent<Transform>().position, spawnlocation.GetComponent<Transform>().rotation);
 
-        Instantiate(item, new Vector3(-0.5f, -.4f, 4.3f), Quaternion.Euler(new Vector3(-90f, 0f, 0f)));
+        Debug.Log("Hi");
+        Instantiate(item, new Vector3(-7.398f, 13.474f, 7.869f), Quaternion.Euler(new Vector3(0f, -270f, 0f)));
+        
 
         //GameObject a = Instantiate(item, spawnlocation.GetComponent<Transform>().position, spawnlocation.GetComponent<Transform>().rotation) as GameObject;
         //a.GetComponent<MeshRenderer>().enabled = true;
