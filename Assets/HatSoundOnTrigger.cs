@@ -12,10 +12,11 @@ public class HatSoundOnTrigger : MonoBehaviour
     void OnTriggerEnter()
     {
         int sound = Random.Range(0, audio.Length);
-        lights[0].SetActive(false);
-        lights[1].SetActive(false);
-        lights[2].SetActive(false);
-        lights[3].SetActive(false);
+
+        for(int i=0;i<4;i++)
+        {
+            lights[i].SetActive(false);
+        }
 
 
 
