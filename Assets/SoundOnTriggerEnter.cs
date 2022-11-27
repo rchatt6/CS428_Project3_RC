@@ -12,16 +12,6 @@ public class SoundOnTriggerEnter : MonoBehaviour
     {
         int sound = Random.Range(0, audio.Length);
 
-
-        for(int i = 0; i < 4;i++ ){
-            Debug.Log(lights[i].activeInHierarchy);
-                    Debug.Log(lights[0].name);
-
-
-            if(lights[i].activeInHierarchy){
-                lights[i].SetActive(false);
-            }
-        }
         //AudioSource.PlayClipAtPoint(audio[sound], transform.position);
         if(!GetComponent<AudioSource>().isPlaying)
         {
